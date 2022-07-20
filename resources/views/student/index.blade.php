@@ -127,5 +127,12 @@
         </div>
       </footer>
     </div>
+    <a href="{{url('/home')}}">Home</a>
+        <a href="{{url('/admin')}}">Admin</a>
+        <a href="{{url('/member')}}">Member</a>
+        <a href="{{url('/about')}}">About</a>
+        <a href="{{url('/student')}}">Student</a>
+        <a href="{{url('/teacher')}}">Teacher</a>
+        <a href="{{url('/login')}}">Login</a>
   </body>
 </html>
